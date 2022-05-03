@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications on Academic</title>
-    <link>/publication/</link>
-    <description>Recent content in Publications on Academic</description>
+    <title>Publications on Sebastian (Shaobo)</title>
+    <link>https://sebastian-li.github.io/publication/</link>
+    <description>Recent content in Publications on Sebastian (Shaobo)</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     
-	    <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://sebastian-li.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

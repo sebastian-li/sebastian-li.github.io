@@ -2,22 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/authors/admin/</loc>
+    <loc>https://sebastian-li.github.io/authors/admin/</loc>
   </url><url>
-    <loc>/</loc>
+    <loc>https://sebastian-li.github.io/authors/</loc>
   </url><url>
-    <loc>/authors/</loc>
+    <loc>https://sebastian-li.github.io/categories/</loc>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>https://sebastian-li.github.io/post/</loc>
   </url><url>
-    <loc>/post/</loc>
+    <loc>https://sebastian-li.github.io/publication_types/</loc>
   </url><url>
-    <loc>/publication_types/</loc>
+    <loc>https://sebastian-li.github.io/publication/</loc>
   </url><url>
-    <loc>/publication/</loc>
+    <loc>https://sebastian-li.github.io/talk/</loc>
   </url><url>
-    <loc>/talk/</loc>
+    <loc>https://sebastian-li.github.io/</loc>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://sebastian-li.github.io/tags/</loc>
   </url>
 </urlset>
