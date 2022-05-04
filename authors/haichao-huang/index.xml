@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Haichao Huang on Sebastian Li</title>
+    <link>https://sebastian-li.github.io/authors/haichao-huang/</link>
+    <description>Recent content in Haichao Huang on Sebastian Li</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 13 Dec 2017 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://sebastian-li.github.io/authors/haichao-huang/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The prognostic value of preoperative serum albumin-globulin ratio for high-grade bladder urothelial carcinoma treated with radical cystectomy: A propensity score-matched analysis</title>
+      <link>https://sebastian-li.github.io/publication/the-prognostic-value-of-preoperative-serum-albumin-globulin-ratio-for-high-grade-bladder-urothelial-carcinoma-treated-with-radical-cystectomy-a-propensity-score-matched-analysis/</link>
+      <pubDate>Wed, 13 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://sebastian-li.github.io/publication/the-prognostic-value-of-preoperative-serum-albumin-globulin-ratio-for-high-grade-bladder-urothelial-carcinoma-treated-with-radical-cystectomy-a-propensity-score-matched-analysis/</guid>
+      <description>&lt;p&gt;Abstract&lt;/p&gt;
+&lt;p&gt;Objectives: Albumin-globulin ratio (AGR) has been reported as an independent risk factor for survival outcomes of a variety of malignancies. We aimed to further examine the prognostic value of AGR for urothelial carcinoma of bladder (UCB) using a propensity score-matched (PSM) analysis.&lt;/p&gt;
+&lt;p&gt;Materials and methods: The medical data of 189 high-grade UCB patients undergoing radical cystectomy were retrospectively reviewed. AGR was defined as the ratio of serum albumin to nonalbumins (serum total protein-albumin). The association of preoperative AGR with clinicopathologic characteristics and prognosis were assessed. Multivariate analyses using Cox regression models were applied to evaluate the independent prognostic factors.&lt;/p&gt;
+&lt;p&gt;Results: The receiver operating curve analysis indicated 1.55 as the optimal cutoff value to define low or high AGR. In prematched cohorts, Kaplan-Meier analysis indicated that AGR lower than 1.55 was associated with poorer overall survival (OS), progression-free survival (PFS), and tumor-specific survival (TSS) (P &amp;lt; 0.001 for all). Multivariable cox analyses also showed that AGR lower than 1.55 were an independent risk factor for survival outcomes, including OS, PFS, and TSS (P &amp;lt; 0.01 for all). In particular, AGR lower than 1.55 remained its prognostic value after PSM analysis.&lt;/p&gt;
+&lt;p&gt;Conclusion: Low AGR was a significant unfavorable factor for UCB patients treated with radical cystectomy. This viable parameter should be enrolled in the pretreatment risk stratification for UCB.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

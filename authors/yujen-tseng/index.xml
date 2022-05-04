@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yujen Tseng on Sebastian Li</title>
+    <link>https://sebastian-li.github.io/authors/yujen-tseng/</link>
+    <description>Recent content in Yujen Tseng on Sebastian Li</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 02 Mar 2020 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://sebastian-li.github.io/authors/yujen-tseng/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Application of CT-based radiomics in predicting portal pressure and patient outcome in portal hypertension</title>
+      <link>https://sebastian-li.github.io/publication/application-of-ct-based-radiomics-in-predicting-portal-pressure-and-patient-outcome-in-portal-hypertension/</link>
+      <pubDate>Mon, 02 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://sebastian-li.github.io/publication/application-of-ct-based-radiomics-in-predicting-portal-pressure-and-patient-outcome-in-portal-hypertension/</guid>
+      <description>&lt;p&gt;Abstract&lt;/p&gt;
+&lt;p&gt;Purpose&lt;/p&gt;
+&lt;p&gt;Portal venous pressure (PVP) measurement is of clinical significance, especially in patients with portal hypertension. However, the invasive nature and associated complications limits its application. The aim of the study is to propose a noninvasive predictive model of PVP values based on CT-extracted radiomic features.
+Methods&lt;/p&gt;
+&lt;p&gt;Radiomics PVP (rPVP) models based on liver, spleen and combined features were established on an experimental cohort of 169 subjects. Radiomics features were extracted from each ROI and reduced via the LASSO regression to achieve an optimal predictive formula. A validation cohort of 62 patients treated for gastroesophageal varices (GOV) was used to confirm the utility of rPVP in predicting variceal recurrence. The association between rPVP and response to treatment was observed.
+Results&lt;/p&gt;
+&lt;p&gt;Three separate predictive formula for PVP were derived from radiomics features. rPVP was significantly correlated to patient response to endoscopic treatment for GOV. Among which, the model containing both liver and spleen features has the highest predictability of variceal recurrence, with an optimal cut-off value at 29.102 mmHg (AUC 0.866). A Kaplan Meier analysis further confirmed the difference between patients with varying rPVP values.
+Conclusion&lt;/p&gt;
+&lt;p&gt;PVP values can be accurately predicted by a non-invasive, CT derived radiomics model. rPVP serves as a non-invasive and precise reference for predicting treatment outcome for GOV secondary to portal hypertension.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

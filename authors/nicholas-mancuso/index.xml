@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nicholas Mancuso on Sebastian Li</title>
+    <link>https://sebastian-li.github.io/authors/nicholas-mancuso/</link>
+    <description>Recent content in Nicholas Mancuso on Sebastian Li</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 03 May 2022 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://sebastian-li.github.io/authors/nicholas-mancuso/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Interaction between maternal killer immunoglobulin-like receptors and offspring HLAs and susceptibility of childhood ALL</title>
+      <link>https://sebastian-li.github.io/publication/interaction-between-maternal-killer-immunoglobulin-like-receptors-and-offspring-hlas-and-susceptibility-of-childhood-all/</link>
+      <pubDate>Tue, 03 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://sebastian-li.github.io/publication/interaction-between-maternal-killer-immunoglobulin-like-receptors-and-offspring-hlas-and-susceptibility-of-childhood-all/</guid>
+      <description>&lt;p&gt;Acute lymphoblastic leukemia (ALL) in children is associated with a distinct neonatalcytokine profile. The basis of this neonatal immune phenotype is unknown, but potentially related to maternal-fetal immune receptor interactions. We conducted a case-control study of 226 case child-mother pairs and 404 control child-mother pairs to evaluate the role of interaction between human leukocyte antigen (HLA) genotypes in the offspring and maternal killer immunoglobulin-like receptor (KIR) genotypes in the etiology of childhood ALL, while considering potential mediation by neonatal cytokines and the immune-modulating enzyme arginase-II (ARG-II). We observed different associations between offspring HLA-maternal KIR activating profiles and the risk of ALL in different predicted genetic ancestry groups. For instance, in Latino subjects who experience the highest risk of childhood leukemia, activating profiles were significantly associated with a lower risk of childhood ALL (odds ratio, OR=0.59; 95% confidence interval, CI:0.49, 0.71) and a higher level of ARG-II at birth (coefficient=0.13; 95%CI:0.04, 0.22). HLA-KIR activating profiles were also associated with a lower risk of ALL in non-Latino Asians (OR=0.63; 95%CI:0.38, 1.01), however with lower TNF-􏰀 level (coefficient=-0.27; 95%CI:-0.49, -0.06). Among non-Latino White subjects, no significant association was observed between offspring HLA-maternal KIR interaction and ALL risk, or cytokine levels. The current study reports the association between offspring HLA-maternal KIR interaction and the development of childhood ALL with variation by predicted genetic ancestry. We also observed some associations between activating profiles and immune factors related to cytokine control; however, cytokines did not demonstrate causal mediation of the activating profiles on ALL risk.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Genome-wide trans-ethnic meta-analysis identifies novel susceptibility loci for childhood acute lymphoblastic leukemia</title>
+      <link>https://sebastian-li.github.io/publication/genome-wide-trans-ethnic-meta-analysis-identifies-novel-susceptibility-loci-for-childhood-acute-lymphoblastic-leukemia/</link>
+      <pubDate>Mon, 08 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://sebastian-li.github.io/publication/genome-wide-trans-ethnic-meta-analysis-identifies-novel-susceptibility-loci-for-childhood-acute-lymphoblastic-leukemia/</guid>
+      <description>&lt;p&gt;We performed a trans-ethnic GWAS of childhood ALL in a discovery panel of 76,317 individuals, including 3482 cases and 72,835 controls distributed across four ethnic cohorts (African Americans, AFR; East Asian Americans, EAS; Latino Americans, LAT; Non-Latino White Americans, NLW; Supplemen- tary Information). After quality control filtering, our dataset consisted of 124, 318, 1878, 1162 cases and 2067, 5017, 8410, 57,341 controls in AFR, EAS, LAT, and NLW, respectively. Furthermore, we tested the association at 7,628,894 imputed SNPs, including low frequency (minor allele frequency, MAF, between 1–5%) variants that were not previously systematically tested. We aggregated summary statistics across the four ethnic groups in a fixed-effect meta- analysis. The genomic control inflation factor was 1.022 after excluding 16 previously reported ALL-associated loci, suggesting our meta-analysis was reasonably robust to any confounding due to population stratification.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Irene Roberts on Sebastian Li</title>
+    <link>https://sebastian-li.github.io/authors/irene-roberts/</link>
+    <description>Recent content in Irene Roberts on Sebastian Li</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 11 Dec 2021 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://sebastian-li.github.io/authors/irene-roberts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Epigenome-Wide Association Study of Acute Lymphoblastic Leukemia in Children with Down Syndrome</title>
+      <link>https://sebastian-li.github.io/publication/epigenome-wide-association-study-of-acute-lymphoblastic-leukemia-in-children-with-down-syndrome/</link>
+      <pubDate>Sat, 11 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://sebastian-li.github.io/publication/epigenome-wide-association-study-of-acute-lymphoblastic-leukemia-in-children-with-down-syndrome/</guid>
+      <description>&lt;p&gt;Background: Down syndrome (DS) is associated with an up to 30-fold increased risk of B-cell acute lymphoblastic leukemia (ALL), and DS-ALL patients have worse overall survival and increased long-term treatment-related health conditions compared with non-DS ALL patients. In a recent genome-wide association study of DS-ALL, established ALL genetic risk loci were associated with DS-ALL, with several single nucleotide polymorphisms (SNPs) conferring a larger effect on ALL risk in the context of DS than in euploidy. We performed an epigenome-wide association study (EWAS) to elucidate whether epigenetic differences at birth are associated with risk of subsequent DS-ALL.
+Methods: The DS-ALL Discovery Study included 147 DS-ALL cases and 198 DS controls from the International Study of Down Syndrome Acute Leukemia, with newborn dried bloodspots (DBS) obtained from California (n=326) and Washington state (n=19) biobanks. The DS-ALL Replication Study included 24 DS-ALL cases and 24 DS controls with newborn DBS from the Michigan Neonatal Biobank. DNA was isolated from DBS, bisulfite converted, and assayed using Illumina Infinium MethylationEPIC Beadchip genome-wide DNA methylation arrays. Raw data were processed using “minfi” and “noob” packages in R. Reference-based deconvolution of blood cell proportions was performed using the Identifying Optimal DNA methylation Libraries (IDOL) algorithm, using DNA methylation data from cord blood reference samples, to estimate proportions of B cells, T cells (CD4+ and CD8+), monocytes, granulocytes, natural killer cells, and nucleated red blood cells. We compared each cell type proportion between DS-ALL cases and DS controls using linear regression adjusting for sex, plate, and principal components (PCs) to account for genetic ancestry. To identify single CpG probes associated with DS-ALL risk, we performed a multiethnic EWAS of DS-ALL in each study using linear regression adjusting for sex, plate, and PCs related to: 1) cell-type proportions and 2) genetic ancestry. Differentially methylated regions (DMRs) were identified using DMRcate and comb-p methods. In the Discovery Study, genome-wide SNP array data were available for 131 cases and 130 controls, and data from targeted sequencing of somatic mutations in exons 2/3 of GATA1 were available for 184/198 DS controls.&lt;/p&gt;
+&lt;p&gt;Results: Deconvolution of blood cell proportions in the DS-ALL Discovery Study showed significantly higher B cell proportions in newborns with DS who later developed ALL (mean=0.0128, sd=0.0151) compared with DS controls (mean=0.00826, sd=0.0115) (P=6.4x10-4, coefficient=0.0052). A significantly higher B cell proportion at birth was also found in DS-ALL cases in the independent Replication Study (cases mean=0.048, sd=0.024; controls mean=0.039, sd=0.028; P=0.03, coefficient=0.015). In the Discovery Study, the B cell difference remained significant (P=5.8x10-3) with a similar effect size (coefficient=0.0045) after removal of GATA1 mutation-positive DS controls (n=30). We also investigated whether DS-ALL risk SNPs at ARID5B, IKZF1, GATA3, and CDKN2A may confound the association, but the increased B cell proportions in DS-ALL remained significant and effect estimates slightly increased in SNP genotype-adjusted models (coefficient range:0.0055-0.0059). In the EWAS of DS-ALL, 9 CpGs reached epigenome-wide significance (P&amp;lt;7.67x10-8), including 2 CpGs overlapping the promoter of the tumor suppressor gene TRIM13, frequently deleted in B-CLL, although none of these showed evidence of association (P&amp;lt;0.05) in the Replication Study. We identified 125 DMRs associated with DS-ALL in the Discovery Study. For 3 DMRs, overlapping genes HOPX, SMIM24, and PPP1R10, all implicated in normal and leukemic stem cell function, there were multiple significant CpGs in the Replication Study (P&amp;lt;0.05) all with effects in the same direction as the Discovery Study DMRs.&lt;/p&gt;
+&lt;p&gt;Conclusions: Increased B cell proportions in newborns with DS may be a risk factor for development of DS-ALL in childhood. This finding, based on DNA methylation data, requires confirmation using conventional cell count measures, and should be explored as a novel biomarker for ALL risk in the non-DS population. Single CpGs and DMRs associated with DS-ALL risk in our Discovery Study require further investigation, including in additional ALL case-control studies in DS and non-DS populations.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The genome-wide impact of trisomy 21 on DNA methylation and its implications for hematopoiesis</title>
+      <link>https://sebastian-li.github.io/publication/the-genome-wide-impact-of-trisomy-21-on-dna-methylation-and-its-implications-for-hematopoiesis/</link>
+      <pubDate>Fri, 05 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://sebastian-li.github.io/publication/the-genome-wide-impact-of-trisomy-21-on-dna-methylation-and-its-implications-for-hematopoiesis/</guid>
+      <description>&lt;p&gt;Abstract&lt;/p&gt;
+&lt;p&gt;Down syndrome is associated with genome-wide perturbation of gene expression, which may be mediated by epigenetic changes. We perform an epigenome-wide association study on neonatal bloodspots comparing 196 newborns with Down syndrome and 439 newborns without Down syndrome, adjusting for cell-type heterogeneity, which identifies 652 epigenome-wide significant CpGs (P &amp;lt; 7.67 × 10−8) and 1,052 differentially methylated regions. Differential methylation at promoter/enhancer regions correlates with gene expression changes in Down syndrome versus non-Down syndrome fetal liver hematopoietic stem/progenitor cells (P &amp;lt; 0.0001). The top two differentially methylated regions overlap RUNX1 and FLI1, both important regulators of megakaryopoiesis and hematopoietic development, with significant hypermethylation at promoter regions of these two genes. Excluding Down syndrome newborns harboring preleukemic GATA1 mutations (N = 30), identified by targeted sequencing, has minimal impact on the epigenome-wide association study results. Down syndrome has profound, genome-wide effects on DNA methylation in hematopoietic cells in early life, which may contribute to the high frequency of hematological problems, including leukemia, in children with Down syndrome.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

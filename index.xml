@@ -1,39 +1,49 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sebastian (Shaobo)</title>
+    <title>Sebastian Li</title>
     <link>https://sebastian-li.github.io/</link>
-    <description>Recent content on Sebastian (Shaobo)</description>
+    <description>Recent content on Sebastian Li</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
+    <lastBuildDate>Tue, 03 May 2022 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://sebastian-li.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Posts</title>
-      <link>https://sebastian-li.github.io/post/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://sebastian-li.github.io/post/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Publications</title>
       <link>https://sebastian-li.github.io/publication/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 03 May 2022 00:00:00 +0000</pubDate>
       
       <guid>https://sebastian-li.github.io/publication/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Recent &amp; Upcoming Talks</title>
-      <link>https://sebastian-li.github.io/talk/</link>
+      <title>Vlogs</title>
+      <link>https://sebastian-li.github.io/vlogs/</link>
+      <pubDate>Tue, 03 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://sebastian-li.github.io/vlogs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://sebastian-li.github.io/project/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://sebastian-li.github.io/project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Posts</title>
+      <link>https://sebastian-li.github.io/posts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sebastian-li.github.io/talk/</guid>
+      <guid>https://sebastian-li.github.io/posts/</guid>
       <description></description>
     </item>
     

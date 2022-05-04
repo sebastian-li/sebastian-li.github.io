@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kyle M. Walsh on Sebastian Li</title>
+    <link>https://sebastian-li.github.io/authors/kyle-m.-walsh/</link>
+    <description>Recent content in Kyle M. Walsh on Sebastian Li</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 13 Apr 2022 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://sebastian-li.github.io/authors/kyle-m.-walsh/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mitochondrial 1555 G&gt;A Variant as a Potential Risk Factor for Childhood Glioblastoma</title>
+      <link>https://sebastian-li.github.io/publication/mitochondrial-1555-ga-variant-as-a-potential-risk-factor-for-childhood-glioblastoma/</link>
+      <pubDate>Wed, 13 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://sebastian-li.github.io/publication/mitochondrial-1555-ga-variant-as-a-potential-risk-factor-for-childhood-glioblastoma/</guid>
+      <description>&lt;p&gt;Background:
+Childhood glioblastoma multiforme (GBM) is a highly aggressive disease with low survival, and its etiology, especially concerning germline genetic risk, is poorly understood. Mitochondria play a key role in putative tumorigenic processes relating to cellular oxidative metabolism, and mitochondrial DNA variants were not previously assessed for association with pediatric brain tumor risk.&lt;/p&gt;
+&lt;p&gt;Methods:
+We conducted an analysis of 675 mitochondrial DNA variants in 90 childhood GBM cases and 2,789 controls to identify enrichment of mitochondrial variant associated with GBM risk. We also performed this analysis for other glioma subtypes including pilocytic astrocytoma. Nuclear-encoded mitochondrial gene variants were also analyzed.&lt;/p&gt;
+&lt;p&gt;Results:
+We identified m1555 A&amp;gt;G was significantly associated with GBM risk (adjusted OR 29.30, 95% CI 5.25-163.4, P value 9.5X10 -4). No association was detected for other subtypes. Haplotype analysis further supported the independent risk contributed by m1555 G&amp;gt;A, instead of a haplogroup joint effect. Nuclear-encoded mitochondrial gene variants identified significant associations in European (rs62036057 in WWOX, adjusted OR = 2.99, 95% CI 1.88-4.75, P value = 3.42X10 -6) and Hispanic (rs111709726 in EFHD1, adjusted OR = 3.57, 95% CI 1.99-6.40, P value = 1.41X10 -6) populations in ethnicity-stratified analyses.&lt;/p&gt;
+&lt;p&gt;Conclusion:
+We report for the first time a potential role played by a functional mitochondrial ribosomal RNA variant in childhood GBM risk, and a potential role for both mitochondrial and nuclear-mitochondrial DNA polymorphisms in GBM tumorigenesis. These data implicate cellular oxidative metabolic capacity as a contributor to the etiology of pediatric glioblastoma.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The genome-wide impact of trisomy 21 on DNA methylation and its implications for hematopoiesis</title>
+      <link>https://sebastian-li.github.io/publication/the-genome-wide-impact-of-trisomy-21-on-dna-methylation-and-its-implications-for-hematopoiesis/</link>
+      <pubDate>Fri, 05 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://sebastian-li.github.io/publication/the-genome-wide-impact-of-trisomy-21-on-dna-methylation-and-its-implications-for-hematopoiesis/</guid>
+      <description>&lt;p&gt;Abstract&lt;/p&gt;
+&lt;p&gt;Down syndrome is associated with genome-wide perturbation of gene expression, which may be mediated by epigenetic changes. We perform an epigenome-wide association study on neonatal bloodspots comparing 196 newborns with Down syndrome and 439 newborns without Down syndrome, adjusting for cell-type heterogeneity, which identifies 652 epigenome-wide significant CpGs (P &amp;lt; 7.67 × 10−8) and 1,052 differentially methylated regions. Differential methylation at promoter/enhancer regions correlates with gene expression changes in Down syndrome versus non-Down syndrome fetal liver hematopoietic stem/progenitor cells (P &amp;lt; 0.0001). The top two differentially methylated regions overlap RUNX1 and FLI1, both important regulators of megakaryopoiesis and hematopoietic development, with significant hypermethylation at promoter regions of these two genes. Excluding Down syndrome newborns harboring preleukemic GATA1 mutations (N = 30), identified by targeted sequencing, has minimal impact on the epigenome-wide association study results. Down syndrome has profound, genome-wide effects on DNA methylation in hematopoietic cells in early life, which may contribute to the high frequency of hematological problems, including leukemia, in children with Down syndrome.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

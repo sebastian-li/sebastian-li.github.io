@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Libby M. Morimoto on Sebastian Li</title>
+    <link>https://sebastian-li.github.io/authors/libby-m.-morimoto/</link>
+    <description>Recent content in Libby M. Morimoto on Sebastian Li</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 08 Nov 2021 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://sebastian-li.github.io/authors/libby-m.-morimoto/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Genome-wide trans-ethnic meta-analysis identifies novel susceptibility loci for childhood acute lymphoblastic leukemia</title>
+      <link>https://sebastian-li.github.io/publication/genome-wide-trans-ethnic-meta-analysis-identifies-novel-susceptibility-loci-for-childhood-acute-lymphoblastic-leukemia/</link>
+      <pubDate>Mon, 08 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://sebastian-li.github.io/publication/genome-wide-trans-ethnic-meta-analysis-identifies-novel-susceptibility-loci-for-childhood-acute-lymphoblastic-leukemia/</guid>
+      <description>&lt;p&gt;We performed a trans-ethnic GWAS of childhood ALL in a discovery panel of 76,317 individuals, including 3482 cases and 72,835 controls distributed across four ethnic cohorts (African Americans, AFR; East Asian Americans, EAS; Latino Americans, LAT; Non-Latino White Americans, NLW; Supplemen- tary Information). After quality control filtering, our dataset consisted of 124, 318, 1878, 1162 cases and 2067, 5017, 8410, 57,341 controls in AFR, EAS, LAT, and NLW, respectively. Furthermore, we tested the association at 7,628,894 imputed SNPs, including low frequency (minor allele frequency, MAF, between 1–5%) variants that were not previously systematically tested. We aggregated summary statistics across the four ethnic groups in a fixed-effect meta- analysis. The genomic control inflation factor was 1.022 after excluding 16 previously reported ALL-associated loci, suggesting our meta-analysis was reasonably robust to any confounding due to population stratification.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

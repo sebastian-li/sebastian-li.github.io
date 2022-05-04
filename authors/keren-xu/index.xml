@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Keren Xu on Sebastian Li</title>
+    <link>https://sebastian-li.github.io/authors/keren-xu/</link>
+    <description>Recent content in Keren Xu on Sebastian Li</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 30 Aug 2021 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://sebastian-li.github.io/authors/keren-xu/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Epigenetic Biomarkers of Prenatal Tobacco Smoke Exposure Are Associated with Gene Deletions in Childhood Acute Lymphoblastic Leukemia</title>
+      <link>https://sebastian-li.github.io/publication/epigenetic-biomarkers-of-prenatal-tobacco-smoke-exposure-are-associated-with-gene-deletions-in-childhood-acute-lymphoblastic-leukemia/</link>
+      <pubDate>Mon, 30 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://sebastian-li.github.io/publication/epigenetic-biomarkers-of-prenatal-tobacco-smoke-exposure-are-associated-with-gene-deletions-in-childhood-acute-lymphoblastic-leukemia/</guid>
+      <description>&lt;p&gt;Background: Parental smoking is implicated in the etiology of acute lymphoblastic leukemia (ALL), the most common childhood cancer. We recently reported an association between an epigenetic biomarker of early-life tobacco smoke exposure at the AHRR gene and increased frequency of somatic gene deletions among ALL cases.&lt;/p&gt;
+&lt;p&gt;Methods: Here, we further assess this association using two epigenetic biomarkers for maternal smoking during pregnancy-DNA methylation at AHRR CpG cg05575921 and a recently established polyepigenetic smoking score-in an expanded set of 482 B-cell ALL (B-ALL) cases in the California Childhood Leukemia Study with available Illumina 450K or MethylationEPIC array data. Multivariable Poisson regression models were used to test the associations between the epigenetic biomarkers and gene deletion numbers.&lt;/p&gt;
+&lt;p&gt;Results: We found an association between DNA methylation at AHRR CpG cg05575921 and deletion number among 284 childhood B-ALL cases with MethylationEPIC array data, with a ratio of means (RM) of 1.31 [95% confidence interval (CI), 1.02-1.69] for each 0.1 β value reduction in DNA methylation, an effect size similar to our previous report in an independent set of 198 B-ALL cases with 450K array data [meta-analysis summary RM (sRM) = 1.32; 95% CI, 1.10-1.57]. The polyepigenetic smoking score was positively associated with gene deletion frequency among all 482 B-ALL cases (sRM = 1.31 for each 4-unit increase in score; 95% CI, 1.09-1.57).&lt;/p&gt;
+&lt;p&gt;Conclusions: We provide further evidence that prenatal tobacco-smoke exposure may influence the generation of somatic copy-number deletions in childhood B-ALL.&lt;/p&gt;
+&lt;p&gt;Impact: Analyses of deletion breakpoint sequences are required to further understand the mutagenic effects of tobacco smoke in childhood ALL.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

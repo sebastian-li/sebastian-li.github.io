@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Adam de Smith on Sebastian Li</title>
+    <link>https://sebastian-li.github.io/authors/adam-de-smith/</link>
+    <description>Recent content in Adam de Smith on Sebastian Li</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 24 Jul 2021 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://sebastian-li.github.io/authors/adam-de-smith/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A genome-wide association analysis of childhood glioma and assessment of the contribution of enhanced European genetic risk via admixture analysis</title>
+      <link>https://sebastian-li.github.io/publication/epigenome-wide-association-study-of-acute-lymphoblastic-leukemia-in-children-with-down-syndrome-copy/</link>
+      <pubDate>Sat, 24 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://sebastian-li.github.io/publication/epigenome-wide-association-study-of-acute-lymphoblastic-leukemia-in-children-with-down-syndrome-copy/</guid>
+      <description>&lt;p&gt;Background:&lt;/p&gt;
+&lt;p&gt;Glioma is the most common brain tumor in children, comprising almost half of all pediatric central nervous system tumors. The biologic and histologic heterogeneity of pediatric glioma makes its treatment highly challenging. The incidence of glioma varies significantly by ethnicity, with higher rates observed in European populations, suggestive of genetic contributions. While the majority of gliomas are curable, high-grade malignant cases have poor survival rates, underscoring the importance of research in this common tumor affecting children. We aimed to identify genetic variants that are associated with childhood glioma and determine whether European genetic ancestry contributes to enhanced childhood glioma risk.&lt;/p&gt;
+&lt;p&gt;Materials and Methods:&lt;/p&gt;
+&lt;p&gt;We conducted a genome-wide association study (GWAS) to identify genetic variants that are significantly associated with childhood glioma risk in a multi-ethnic California birth cohort (1982-2011). Study subjects included 3141 glioma cases (age 0-14 at diagnosis) and 3167 cancer-free controls matched by birth year, with additional 2913 controls from the 1000 Genomes Project and Human Genome Diversity Project. In subjects with pilocytic glioma, we also estimated the proportions of European, African and Native American ancestry proportions among admixed Hispanic subjects and tested whether genome wide European ancestry proportion is associated with risk. Regional admixture mapping and conditional analyses were performed to identify associations with local ancestral haplotypes.&lt;/p&gt;
+&lt;p&gt;Results:&lt;/p&gt;
+&lt;p&gt;Meta-analysis of GWAS in all ethnicities identified strong and significant hits in a specific noncoding RNA in chromosome 10. Global ancestry analysis demonstrated that a higher European ancestral background contributes to elevated childhood pilocytic astrocytoma risk (Wilcoxon rank sum test, P value = 0.003475). Regional admixture mapping revealed a locus in chromosome 6 (P value = 4.70×10^(-6)) as the most significant regional ancestry loci associated with pilocytic glioma risk, with additional contributions from other loci around the genome.&lt;/p&gt;
+&lt;p&gt;Conclusions:&lt;/p&gt;
+&lt;p&gt;We discover for the first time the genetic variants that are associated with childhood glioma risk, and captured the ancestral difference in glioma risk both globally and regionally. This latter analysis partly explains the demonstrated higher incidence and familial relative risk of low grade glioma in Europeans when compared to groups of other ancestral origins.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
