@@ -6,10 +6,23 @@
     <description>Recent content in Catherine Metayer on Sebastian Li</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 May 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jun 2022 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://sebastian-li.github.io/authors/catherine-metayer/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Accelerated epigenetic aging in newborns with Down syndrome</title>
+      <link>https://sebastian-li.github.io/publication/accelerated-epigenetic-aging-in-newborns-with-down-syndrome/</link>
+      <pubDate>Mon, 06 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://sebastian-li.github.io/publication/accelerated-epigenetic-aging-in-newborns-with-down-syndrome/</guid>
+      <description>&lt;p&gt;Abstract&lt;/p&gt;
+&lt;p&gt;Accelerated aging is a hallmark of Down syndrome (DS), with adults experiencing early-onset Alzheimer&amp;rsquo;s disease and premature aging of the skin, hair, and immune and endocrine systems. Accelerated epigenetic aging has been found in the blood and brain tissue of adults with DS but when premature aging in DS begins remains unknown.&lt;/p&gt;
+&lt;p&gt;We investigated whether accelerated aging in DS is already detectable in blood at birth. We assessed the association between age acceleration and DS using five epigenetic clocks in 346 newborns with DS and 567 newborns without DS using Illumina MethylationEPIC DNA methylation array data. We compared two epigenetic aging clocks (DNAmSkinBloodClock and pan-tissue DNAmAge) and three epigenetic gestational age clocks (Haftorn, Knight, and Bohlin) between DS and non-DS newborns using linear regression adjusting for observed age, sex, batch, deconvoluted blood cell proportions, and genetic ancestry. Targeted sequencing of GATA1 was performed in a subset of 184 newborns with DS to identify somatic mutations associated with transient abnormal myelopoiesis.&lt;/p&gt;
+&lt;p&gt;DS was significantly associated with increased DNAmSkinBloodClock (effect estimate = 0.2442, p &amp;lt; 0.0001), with an epigenetic age acceleration of 244 days in newborns with DS after adjusting for potential confounding factors (95% confidence interval: 196–292 days). We also found evidence of epigenetic age acceleration associated with somatic GATA1 mutations among newborns with DS (p = 0.015). DS was not associated with epigenetic gestational age acceleration. We demonstrate that accelerated epigenetic aging in the blood of DS patients begins prenatally, with implications for the pathophysiology of immunosenescence and other aging-related traits in DS.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Epigenome-Wide Association Study of Acute Lymphoblastic Leukemia in Children with Down Syndrome</title>
