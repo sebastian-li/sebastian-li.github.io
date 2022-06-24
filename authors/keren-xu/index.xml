@@ -6,10 +6,26 @@
     <description>Recent content in Keren Xu on Sebastian Li</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 06 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jun 2022 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://sebastian-li.github.io/authors/keren-xu/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Investigating DNA methylation as a mediator of genetic risk in childhood acute lymphoblastic Leukemia</title>
+      <link>https://sebastian-li.github.io/publication/investigating_dna_methylation_as_a_mediator_of_genetic_risk_in_childhood_acute_lymphoblastic_leukemia/</link>
+      <pubDate>Sat, 18 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://sebastian-li.github.io/publication/investigating_dna_methylation_as_a_mediator_of_genetic_risk_in_childhood_acute_lymphoblastic_leukemia/</guid>
+      <description>&lt;p&gt;Genome-wide association studies have identified a growing number of single nucleotide polymorphisms (SNPs) associated with childhood acute lymphoblastic leukemia (ALL), yet the functional roles of most SNPs are unclear. Multiple lines of evidence suggest epigenetic mechanisms may mediate the impact of heritable genetic variation on phenotypes.
+Here, we investigated whether DNA methylation mediates the effect of genetic risk loci for childhood ALL. We performed an epigenome-wide association study (EWAS) including 808 childhood ALL cases and 919 controls from California-based studies using neonatal blood DNA.
+For differentially methylated CpG positions (DMPs), we next conducted association analysis with 23 known ALL risk SNPs followed by causal mediation analyses addressing the significant SNP-DMP pairs.
+DNA methylation at CpG cg01139861, in the promoter region of IKZF1, mediated the effects of the intronic IKZF1 risk SNP rs78396808, with the average causal mediation effect (ACME) explaining ~ 30% of the total effect (ACME P = 0.0031).
+In analyses stratified by self-reported race/ethnicity, the mediation effect was only significant in Latinos, explaining ~ 41% of the total effect of rs78396808 on ALL risk (ACME P = 0.0037). Conditional analyses confirmed the presence of at least three independent genetic risk loci for childhood ALL at IKZF1, with rs78396808 unique to non-European populations.
+We also demonstrated that the most significant DMP in the EWAS, CpG cg13344587 at gene ARID5B (P = 8.61x10−10), was entirely confounded by the ARID5B ALL risk SNP rs7090445.
+Our findings provide new insights into the functional pathways of ALL risk SNPs and the DNA methylation differences associated with risk of childhood ALL.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Accelerated epigenetic aging in newborns with Down syndrome</title>

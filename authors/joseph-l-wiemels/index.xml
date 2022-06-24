@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Joseph L Wiemels on Sebastian Li</title>
+    <link>https://sebastian-li.github.io/authors/joseph-l-wiemels/</link>
+    <description>Recent content in Joseph L Wiemels on Sebastian Li</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 24 Jun 2022 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://sebastian-li.github.io/authors/joseph-l-wiemels/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Interaction between maternal killer immunoglobulin-like receptors and offspring HLAs and susceptibility of childhood ALL</title>
+      <link>https://sebastian-li.github.io/publication/interaction_between_maternal_killer_immunoglobulin-like_receptors_and_offspring_hlas_and_susceptibility_of_childhood_all/</link>
+      <pubDate>Fri, 24 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://sebastian-li.github.io/publication/interaction_between_maternal_killer_immunoglobulin-like_receptors_and_offspring_hlas_and_susceptibility_of_childhood_all/</guid>
+      <description>&lt;p&gt;Acute lymphoblastic leukemia (ALL) in children is associated with a distinct neonatal cytokine profile. The basis of this neonatal immune phenotype is unknown but potentially related to maternal-fetal immune receptor interactions.&lt;/p&gt;
+&lt;p&gt;We conducted a case-control study of 226 case child-mother pairs and 404 control child-mother pairs to evaluate the role of interaction between HLA genotypes in the offspring and maternal killer immunoglobulin-like receptor (KIR) genotypes in the etiology of childhood ALL, while considering potential mediation by neonatal cytokines and the immune-modulating enzyme arginase-II (ARG-II).&lt;/p&gt;
+&lt;p&gt;We observed different associations between offspring HLA-maternal KIR activating profiles and the risk of ALL in different predicted genetic ancestry groups.
+For instance, in Latino subjects who experience the highest risk of childhood leukemia, activating profiles were significantly associated with a lower risk of childhood ALL (odds ratio [OR] = 0.59; 95% confidence interval [CI], 0.49-0.71) and a higher level of ARG-II at birth (coefficient = 0.13; 95% CI, 0.04-0.22).
+HLA-KIR activating profiles were also associated with a lower risk of ALL in non-Latino Asians (OR = 0.63; 95% CI, 0.38-1.01), although they had a lower tumor necrosis factor-α level (coefficient = −0.27; 95% CI, −0.49 to −0.06). Among non-Latino White subjects, no significant association was observed between offspring HLA-maternal KIR interaction and ALL risk or cytokine levels.&lt;/p&gt;
+&lt;p&gt;The current study reports the association between offspring HLA-maternal KIR interaction and the development of childhood ALL with variation by predicted genetic ancestry. We also observed some associations between activating profiles and immune factors related to cytokine control; however, cytokines did not demonstrate causal mediation of the activating profiles on ALL risk.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Investigating DNA methylation as a mediator of genetic risk in childhood acute lymphoblastic Leukemia</title>
+      <link>https://sebastian-li.github.io/publication/investigating_dna_methylation_as_a_mediator_of_genetic_risk_in_childhood_acute_lymphoblastic_leukemia/</link>
+      <pubDate>Sat, 18 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://sebastian-li.github.io/publication/investigating_dna_methylation_as_a_mediator_of_genetic_risk_in_childhood_acute_lymphoblastic_leukemia/</guid>
+      <description>&lt;p&gt;Genome-wide association studies have identified a growing number of single nucleotide polymorphisms (SNPs) associated with childhood acute lymphoblastic leukemia (ALL), yet the functional roles of most SNPs are unclear. Multiple lines of evidence suggest epigenetic mechanisms may mediate the impact of heritable genetic variation on phenotypes.
+Here, we investigated whether DNA methylation mediates the effect of genetic risk loci for childhood ALL. We performed an epigenome-wide association study (EWAS) including 808 childhood ALL cases and 919 controls from California-based studies using neonatal blood DNA.
+For differentially methylated CpG positions (DMPs), we next conducted association analysis with 23 known ALL risk SNPs followed by causal mediation analyses addressing the significant SNP-DMP pairs.
+DNA methylation at CpG cg01139861, in the promoter region of IKZF1, mediated the effects of the intronic IKZF1 risk SNP rs78396808, with the average causal mediation effect (ACME) explaining ~ 30% of the total effect (ACME P = 0.0031).
+In analyses stratified by self-reported race/ethnicity, the mediation effect was only significant in Latinos, explaining ~ 41% of the total effect of rs78396808 on ALL risk (ACME P = 0.0037). Conditional analyses confirmed the presence of at least three independent genetic risk loci for childhood ALL at IKZF1, with rs78396808 unique to non-European populations.
+We also demonstrated that the most significant DMP in the EWAS, CpG cg13344587 at gene ARID5B (P = 8.61x10−10), was entirely confounded by the ARID5B ALL risk SNP rs7090445.
+Our findings provide new insights into the functional pathways of ALL risk SNPs and the DNA methylation differences associated with risk of childhood ALL.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

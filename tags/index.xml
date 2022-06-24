@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Sebastian Li</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 06 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jun 2022 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://sebastian-li.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +14,18 @@
     <item>
       <title>bioinformatics</title>
       <link>https://sebastian-li.github.io/tags/bioinformatics/</link>
-      <pubDate>Mon, 06 Jun 2022 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 24 Jun 2022 00:00:00 +0000</pubDate>
       
       <guid>https://sebastian-li.github.io/tags/bioinformatics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>blood tumor</title>
+      <link>https://sebastian-li.github.io/tags/blood-tumor/</link>
+      <pubDate>Fri, 24 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://sebastian-li.github.io/tags/blood-tumor/</guid>
       <description></description>
     </item>
     
@@ -39,29 +48,20 @@
     </item>
     
     <item>
-      <title>blood tumor</title>
-      <link>https://sebastian-li.github.io/tags/blood-tumor/</link>
-      <pubDate>Tue, 03 May 2022 00:00:00 +0000</pubDate>
+      <title>brain tumor</title>
+      <link>https://sebastian-li.github.io/tags/brain-tumor/</link>
+      <pubDate>Wed, 13 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://sebastian-li.github.io/tags/blood-tumor/</guid>
+      <guid>https://sebastian-li.github.io/tags/brain-tumor/</guid>
       <description></description>
     </item>
     
     <item>
       <title>epidemiology</title>
       <link>https://sebastian-li.github.io/tags/epidemiology/</link>
-      <pubDate>Tue, 03 May 2022 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 14 Mar 2022 00:00:00 +0000</pubDate>
       
       <guid>https://sebastian-li.github.io/tags/epidemiology/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>brain tumor</title>
-      <link>https://sebastian-li.github.io/tags/brain-tumor/</link>
-      <pubDate>Wed, 13 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://sebastian-li.github.io/tags/brain-tumor/</guid>
       <description></description>
     </item>
     
