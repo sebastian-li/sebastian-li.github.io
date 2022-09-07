@@ -6,10 +6,23 @@
     <description>Recent content in bioinformatics on Sebastian Li</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Sep 2022 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://sebastian-li.github.io/tags/bioinformatics/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Localized variation in ancestral admixture identifies pilocytic astrocytoma risk loci among Latino children</title>
+      <link>https://sebastian-li.github.io/publication/localized_variation_in_ancestral_admixture_identifies_pilocytic_astrocytoma_risk_loci_among_latino_children/</link>
+      <pubDate>Wed, 07 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://sebastian-li.github.io/publication/localized_variation_in_ancestral_admixture_identifies_pilocytic_astrocytoma_risk_loci_among_latino_children/</guid>
+      <description>&lt;p&gt;Pilocytic astrocytoma (PA) is the most common pediatric brain tumor. PA has at least a 50% higher incidence in populations of European ancestry compared to other ancestral groups, which may be due in part to genetic differences.&lt;/p&gt;
+&lt;p&gt;We first compared the global proportions of European, African, and Amerindian ancestries in 301 PA cases and 1185 controls of self-identified Latino ethnicity from the California Biobank. We then conducted admixture mapping analysis to assess PA risk with local ancestry.&lt;/p&gt;
+&lt;p&gt;We found PA cases had a significantly higher proportion of global European ancestry than controls (case median = 0.55, control median = 0.51, P value = 3.5x10-3). Admixture mapping identified 13 SNPs in the 6q14.3 region (SNX14) contributing to risk, as well as three other peaks approaching significance on chromosomes 7, 10 and 13. Downstream fine mapping in these regions revealed several SNPs potentially contributing to childhood PA risk.&lt;/p&gt;
+&lt;p&gt;There is a significant difference in genomic ancestry associated with Latino PA risk and several genomic loci potentially mediating this risk.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Interaction between maternal killer immunoglobulin-like receptors and offspring HLAs and susceptibility of childhood ALL</title>
@@ -52,6 +65,16 @@ Our findings provide new insights into the functional pathways of ALL risk SNPs 
 &lt;p&gt;Accelerated aging is a hallmark of Down syndrome (DS), with adults experiencing early-onset Alzheimer&amp;rsquo;s disease and premature aging of the skin, hair, and immune and endocrine systems. Accelerated epigenetic aging has been found in the blood and brain tissue of adults with DS but when premature aging in DS begins remains unknown.&lt;/p&gt;
 &lt;p&gt;We investigated whether accelerated aging in DS is already detectable in blood at birth. We assessed the association between age acceleration and DS using five epigenetic clocks in 346 newborns with DS and 567 newborns without DS using Illumina MethylationEPIC DNA methylation array data. We compared two epigenetic aging clocks (DNAmSkinBloodClock and pan-tissue DNAmAge) and three epigenetic gestational age clocks (Haftorn, Knight, and Bohlin) between DS and non-DS newborns using linear regression adjusting for observed age, sex, batch, deconvoluted blood cell proportions, and genetic ancestry. Targeted sequencing of GATA1 was performed in a subset of 184 newborns with DS to identify somatic mutations associated with transient abnormal myelopoiesis.&lt;/p&gt;
 &lt;p&gt;DS was significantly associated with increased DNAmSkinBloodClock (effect estimate = 0.2442, p &amp;lt; 0.0001), with an epigenetic age acceleration of 244 days in newborns with DS after adjusting for potential confounding factors (95% confidence interval: 196–292 days). We also found evidence of epigenetic age acceleration associated with somatic GATA1 mutations among newborns with DS (p = 0.015). DS was not associated with epigenetic gestational age acceleration. We demonstrate that accelerated epigenetic aging in the blood of DS patients begins prenatally, with implications for the pathophysiology of immunosenescence and other aging-related traits in DS.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Epigenome-Wide Association Study of Acute Lymphoblastic Leukemia in Children with Down Syndrome</title>
+      <link>https://sebastian-li.github.io/publication/epigenome-wide-association-study-of-acute-lymphoblastic-leukemia-in-children-with-down-syndrome-letter/</link>
+      <pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://sebastian-li.github.io/publication/epigenome-wide-association-study-of-acute-lymphoblastic-leukemia-in-children-with-down-syndrome-letter/</guid>
+      <description>&lt;p&gt;Down syndrome (DS) is caused by constitutional trisomy of chromosome 21 and is associated with an up to 30-fold increased risk of acute lymphoblastic leukemia (ALL). While DS is associated with alterations in epigenetic markers, including DNA methylation, and gene expression. These mechanisms have not been fully explored in relation to DS-ALL etiology. Because the epigenome is sensitive to genetic and environmental influences during fetal development and can be leveraged to characterize blood cell proportions, we sought to evaluate the role of the neonatal methylome in children with DS on subsequent ALL risk.&lt;/p&gt;
 </description>
     </item>
     

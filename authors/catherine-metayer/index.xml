@@ -6,10 +6,23 @@
     <description>Recent content in Catherine Metayer on Sebastian Li</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Sep 2022 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://sebastian-li.github.io/authors/catherine-metayer/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Localized variation in ancestral admixture identifies pilocytic astrocytoma risk loci among Latino children</title>
+      <link>https://sebastian-li.github.io/publication/localized_variation_in_ancestral_admixture_identifies_pilocytic_astrocytoma_risk_loci_among_latino_children/</link>
+      <pubDate>Wed, 07 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://sebastian-li.github.io/publication/localized_variation_in_ancestral_admixture_identifies_pilocytic_astrocytoma_risk_loci_among_latino_children/</guid>
+      <description>&lt;p&gt;Pilocytic astrocytoma (PA) is the most common pediatric brain tumor. PA has at least a 50% higher incidence in populations of European ancestry compared to other ancestral groups, which may be due in part to genetic differences.&lt;/p&gt;
+&lt;p&gt;We first compared the global proportions of European, African, and Amerindian ancestries in 301 PA cases and 1185 controls of self-identified Latino ethnicity from the California Biobank. We then conducted admixture mapping analysis to assess PA risk with local ancestry.&lt;/p&gt;
+&lt;p&gt;We found PA cases had a significantly higher proportion of global European ancestry than controls (case median = 0.55, control median = 0.51, P value = 3.5x10-3). Admixture mapping identified 13 SNPs in the 6q14.3 region (SNX14) contributing to risk, as well as three other peaks approaching significance on chromosomes 7, 10 and 13. Downstream fine mapping in these regions revealed several SNPs potentially contributing to childhood PA risk.&lt;/p&gt;
+&lt;p&gt;There is a significant difference in genomic ancestry associated with Latino PA risk and several genomic loci potentially mediating this risk.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Interaction between maternal killer immunoglobulin-like receptors and offspring HLAs and susceptibility of childhood ALL</title>
@@ -92,19 +105,6 @@ We report for the first time a potential role played by a functional mitochondri
 &lt;p&gt;Infections and antigenic exposures during childhood are associated with pediatric acute lymphoblastic leukemia (ALL) and are thought to lead to immune dysregulation stimulating pre-leukemic clones to expand and progress to overt leukemia. Emerging epidemiologic and laboratory evidence suggests cytomegalovirus (CMV) may contribute to the development of childhood ALL inspiring further investigative efforts and for the first time, identifying a specific target for ALL prevention.&lt;/p&gt;
 &lt;p&gt;In this study, we aimed to better elucidate the role of CMV in ALL etiology by screening diagnostic leukemia bone marrow samples for CMV DNA using a highly quantitative droplet digital PCR (ddPCR) assay.&lt;/p&gt;
 &lt;p&gt;We identified differences in demographic features and leukemia subtypes between CMV-positive and CMV-negative cases, supporting the hypothesis that CMV plays a role in ALL development.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Epigenome-Wide Association Study of Acute Lymphoblastic Leukemia in Children with Down Syndrome (Conference)</title>
-      <link>https://sebastian-li.github.io/publication/epigenome-wide-association-study-of-acute-lymphoblastic-leukemia-in-children-with-down-syndrome/</link>
-      <pubDate>Sat, 11 Dec 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://sebastian-li.github.io/publication/epigenome-wide-association-study-of-acute-lymphoblastic-leukemia-in-children-with-down-syndrome/</guid>
-      <description>&lt;p&gt;Background: Down syndrome (DS) is associated with an up to 30-fold increased risk of B-cell acute lymphoblastic leukemia (ALL), and DS-ALL patients have worse overall survival and increased long-term treatment-related health conditions compared with non-DS ALL patients. In a recent genome-wide association study of DS-ALL, established ALL genetic risk loci were associated with DS-ALL, with several single nucleotide polymorphisms (SNPs) conferring a larger effect on ALL risk in the context of DS than in euploidy. We performed an epigenome-wide association study (EWAS) to elucidate whether epigenetic differences at birth are associated with risk of subsequent DS-ALL.
-Methods: The DS-ALL Discovery Study included 147 DS-ALL cases and 198 DS controls from the International Study of Down Syndrome Acute Leukemia, with newborn dried bloodspots (DBS) obtained from California (n=326) and Washington state (n=19) biobanks. The DS-ALL Replication Study included 24 DS-ALL cases and 24 DS controls with newborn DBS from the Michigan Neonatal Biobank. DNA was isolated from DBS, bisulfite converted, and assayed using Illumina Infinium MethylationEPIC Beadchip genome-wide DNA methylation arrays. Raw data were processed using “minfi” and “noob” packages in R. Reference-based deconvolution of blood cell proportions was performed using the Identifying Optimal DNA methylation Libraries (IDOL) algorithm, using DNA methylation data from cord blood reference samples, to estimate proportions of B cells, T cells (CD4+ and CD8+), monocytes, granulocytes, natural killer cells, and nucleated red blood cells. We compared each cell type proportion between DS-ALL cases and DS controls using linear regression adjusting for sex, plate, and principal components (PCs) to account for genetic ancestry. To identify single CpG probes associated with DS-ALL risk, we performed a multiethnic EWAS of DS-ALL in each study using linear regression adjusting for sex, plate, and PCs related to: 1) cell-type proportions and 2) genetic ancestry. Differentially methylated regions (DMRs) were identified using DMRcate and comb-p methods. In the Discovery Study, genome-wide SNP array data were available for 131 cases and 130 controls, and data from targeted sequencing of somatic mutations in exons 2/3 of GATA1 were available for 184/198 DS controls.&lt;/p&gt;
-&lt;p&gt;Results: Deconvolution of blood cell proportions in the DS-ALL Discovery Study showed significantly higher B cell proportions in newborns with DS who later developed ALL (mean=0.0128, sd=0.0151) compared with DS controls (mean=0.00826, sd=0.0115) (P=6.4x10-4, coefficient=0.0052). A significantly higher B cell proportion at birth was also found in DS-ALL cases in the independent Replication Study (cases mean=0.048, sd=0.024; controls mean=0.039, sd=0.028; P=0.03, coefficient=0.015). In the Discovery Study, the B cell difference remained significant (P=5.8x10-3) with a similar effect size (coefficient=0.0045) after removal of GATA1 mutation-positive DS controls (n=30). We also investigated whether DS-ALL risk SNPs at ARID5B, IKZF1, GATA3, and CDKN2A may confound the association, but the increased B cell proportions in DS-ALL remained significant and effect estimates slightly increased in SNP genotype-adjusted models (coefficient range:0.0055-0.0059). In the EWAS of DS-ALL, 9 CpGs reached epigenome-wide significance (P&amp;lt;7.67x10-8), including 2 CpGs overlapping the promoter of the tumor suppressor gene TRIM13, frequently deleted in B-CLL, although none of these showed evidence of association (P&amp;lt;0.05) in the Replication Study. We identified 125 DMRs associated with DS-ALL in the Discovery Study. For 3 DMRs, overlapping genes HOPX, SMIM24, and PPP1R10, all implicated in normal and leukemic stem cell function, there were multiple significant CpGs in the Replication Study (P&amp;lt;0.05) all with effects in the same direction as the Discovery Study DMRs.&lt;/p&gt;
-&lt;p&gt;Conclusions: Increased B cell proportions in newborns with DS may be a risk factor for development of DS-ALL in childhood. This finding, based on DNA methylation data, requires confirmation using conventional cell count measures, and should be explored as a novel biomarker for ALL risk in the non-DS population. Single CpGs and DMRs associated with DS-ALL risk in our Discovery Study require further investigation, including in additional ALL case-control studies in DS and non-DS populations.&lt;/p&gt;
 </description>
     </item>
     
