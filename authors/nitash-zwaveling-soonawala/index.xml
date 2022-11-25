@@ -6,16 +6,17 @@
     <description>Recent content in Nitash Zwaveling-Soonawala on Sebastian Li</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
+    <lastBuildDate>Thu, 03 Nov 2022 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://sebastian-li.github.io/authors/nitash-zwaveling-soonawala/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Meta-analysis of DNA methylation datasets shows aberrant DNA methylation of thyroid development or function genes in Down syndrome</title>
-      <link>https://sebastian-li.github.io/publication/meta-analysis_of_dna_methylation_datasets_shows_aberrant_dna_methylation_of_thyroid_development_or_function_genes_in_down-syndrome/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <link>https://sebastian-li.github.io/publication/meta-analysis_of_dna_methylation_datasets_shows_aberrant_dna_methylation_of_thyroid_development_or_function_genes_in_down_syndrome/</link>
+      <pubDate>Thu, 03 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://sebastian-li.github.io/publication/meta-analysis_of_dna_methylation_datasets_shows_aberrant_dna_methylation_of_thyroid_development_or_function_genes_in_down-syndrome/</guid>
+      <guid>https://sebastian-li.github.io/publication/meta-analysis_of_dna_methylation_datasets_shows_aberrant_dna_methylation_of_thyroid_development_or_function_genes_in_down_syndrome/</guid>
       <description>&lt;p&gt;Background: In Down syndrome (DS) there is a high occurrence of congenital hypothyroidism (CH) and subclinical hypothyroidism (SH) early in life. The etiology of CH and early SH in DS remains unclear. Previous research has shown genome-wide transcriptional and epigenetic alterations in DS. Thus, we hypothesized that CH and early SH could be caused by epigenetically driven transcriptional downregulation of thyroid-related genes, through promoter region hypermethylation.&lt;/p&gt;
 &lt;p&gt;Methods: We extracted whole blood DNA methylation (DNAm) profiles of DS and non-DS individuals from four independent Illumina array-based datasets (252 DS individuals and 519 non-DS individuals). The data were divided in a discovery and validation dataset. Epigenome-wide association analysis was performed using a linear regression model, after which we filtered for thyroid-related genes.&lt;/p&gt;
 &lt;p&gt;Results: In the discovery dataset, we identified significant associations for DS in 18 thyroid-related genes. 21 of 30 significant differentially methylated positions (DMPs) were also significant in the validation dataset. A meta-analysis of the discovery and validation datasets detected 31 DMPs, including 29 promoter-associated CpGs with identical direction of effect across the datasets, and two differentially methylated regions (DMRs). 27 DMPs were hypomethylated and promoter-associated. The mean methylation difference of hypomethylated thyroid-related DMPs decreased with age.&lt;/p&gt;
