@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Maria G Bacalini on Sebastian Li</title>
+    <link>https://sebastian-li.github.io/authors/maria-g-bacalini/</link>
+    <description>Recent content in Maria G Bacalini on Sebastian Li</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    
+	    <atom:link href="https://sebastian-li.github.io/authors/maria-g-bacalini/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Meta-analysis of DNA methylation datasets shows aberrant DNA methylation of thyroid development or function genes in Down syndrome</title>
+      <link>https://sebastian-li.github.io/publication/meta-analysis_of_dna_methylation_datasets_shows_aberrant_dna_methylation_of_thyroid_development_or_function_genes_in_down-syndrome/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sebastian-li.github.io/publication/meta-analysis_of_dna_methylation_datasets_shows_aberrant_dna_methylation_of_thyroid_development_or_function_genes_in_down-syndrome/</guid>
+      <description>&lt;p&gt;Background: In Down syndrome (DS) there is a high occurrence of congenital hypothyroidism (CH) and subclinical hypothyroidism (SH) early in life. The etiology of CH and early SH in DS remains unclear. Previous research has shown genome-wide transcriptional and epigenetic alterations in DS. Thus, we hypothesized that CH and early SH could be caused by epigenetically driven transcriptional downregulation of thyroid-related genes, through promoter region hypermethylation.&lt;/p&gt;
+&lt;p&gt;Methods: We extracted whole blood DNA methylation (DNAm) profiles of DS and non-DS individuals from four independent Illumina array-based datasets (252 DS individuals and 519 non-DS individuals). The data were divided in a discovery and validation dataset. Epigenome-wide association analysis was performed using a linear regression model, after which we filtered for thyroid-related genes.&lt;/p&gt;
+&lt;p&gt;Results: In the discovery dataset, we identified significant associations for DS in 18 thyroid-related genes. 21 of 30 significant differentially methylated positions (DMPs) were also significant in the validation dataset. A meta-analysis of the discovery and validation datasets detected 31 DMPs, including 29 promoter-associated CpGs with identical direction of effect across the datasets, and two differentially methylated regions (DMRs). 27 DMPs were hypomethylated and promoter-associated. The mean methylation difference of hypomethylated thyroid-related DMPs decreased with age.&lt;/p&gt;
+&lt;p&gt;Conclusions: Contrary to our hypothesis of generalized hypermethylation of promoter regions of thyroid-related genes – indicative of epigenetic silencing of promoters and subsequent transcriptional downregulation, causing the biochemical thyroid abnormalities in DS –, we found an enrichment of hypomethylated DMPs annotated to promoter regions of these genes. This suggests that CH and early SH in DS are not caused by differential methylation of thyroid-related genes.
+Considering epigenetic regulation is dynamic, we hypothesize the observed thyroid-related gene DNAm changes could be a rescue phenomenon in an attempt to ameliorate the thyroid phenotype, through epigenetic upregulation of thyroid-related genes. This hypothesis is supported by the finding of decreasing methylation difference of thyroid-related genes with age. The prevalence of early SH declines with age, so hypothetically, epigenetic upregulation of thyroid-related genes also diminishes. While this study provides interesting insights, the exact origin of CH and early SH in DS remains unknown.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

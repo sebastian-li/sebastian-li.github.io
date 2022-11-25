@@ -12,7 +12,7 @@
     
     
     <item>
-      <title>Periconceptional folate intake influences DNA methylation at birth based on dietary source in an analysis of pediatric acute lymphoblastic leukemia cases and controls</title>
+      <title>DNA methylation at birth in monozygotic twins discordant for pediatric acute lymphoblastic leukemia</title>
       <link>https://sebastian-li.github.io/publication/dna_methylation_at_birth_in_monozygotic_twins_discordant_for_pediatric_acute_lymphoblastic_leukemia/</link>
       <pubDate>Fri, 14 Oct 2022 00:00:00 +0000</pubDate>
       
@@ -21,6 +21,20 @@
 &lt;p&gt;Here, we evaluate DNA methylation at birth in 41 leukemia-discordant monozygotic twin pairs using the Illumina EPIC array on archived neonatal blood spots to identify epigenetic variation associated with development of pediatric acute lymphoblastic leukemia, independent of genetic influence.&lt;/p&gt;
 &lt;p&gt;Through conditional logistic regression we identify 240 significant probes and 10 regions associated with the discordant onset of leukemia. We identify a significant negative coefficient bias, indicating DNA hypomethylation in cases, across the array and enhanced in open sea, shelf/shore, and gene body regions compared to promoter and CpG island regions.&lt;/p&gt;
 &lt;p&gt;Here, we show an association between global DNA hypomethylation and future development of pediatric acute lymphoblastic leukemia across disease-discordant genetically identical twins, implying DNA hypomethylation may contribute more generally to leukemia risk.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Meta-analysis of DNA methylation datasets shows aberrant DNA methylation of thyroid development or function genes in Down syndrome</title>
+      <link>https://sebastian-li.github.io/publication/meta-analysis_of_dna_methylation_datasets_shows_aberrant_dna_methylation_of_thyroid_development_or_function_genes_in_down-syndrome/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sebastian-li.github.io/publication/meta-analysis_of_dna_methylation_datasets_shows_aberrant_dna_methylation_of_thyroid_development_or_function_genes_in_down-syndrome/</guid>
+      <description>&lt;p&gt;Background: In Down syndrome (DS) there is a high occurrence of congenital hypothyroidism (CH) and subclinical hypothyroidism (SH) early in life. The etiology of CH and early SH in DS remains unclear. Previous research has shown genome-wide transcriptional and epigenetic alterations in DS. Thus, we hypothesized that CH and early SH could be caused by epigenetically driven transcriptional downregulation of thyroid-related genes, through promoter region hypermethylation.&lt;/p&gt;
+&lt;p&gt;Methods: We extracted whole blood DNA methylation (DNAm) profiles of DS and non-DS individuals from four independent Illumina array-based datasets (252 DS individuals and 519 non-DS individuals). The data were divided in a discovery and validation dataset. Epigenome-wide association analysis was performed using a linear regression model, after which we filtered for thyroid-related genes.&lt;/p&gt;
+&lt;p&gt;Results: In the discovery dataset, we identified significant associations for DS in 18 thyroid-related genes. 21 of 30 significant differentially methylated positions (DMPs) were also significant in the validation dataset. A meta-analysis of the discovery and validation datasets detected 31 DMPs, including 29 promoter-associated CpGs with identical direction of effect across the datasets, and two differentially methylated regions (DMRs). 27 DMPs were hypomethylated and promoter-associated. The mean methylation difference of hypomethylated thyroid-related DMPs decreased with age.&lt;/p&gt;
+&lt;p&gt;Conclusions: Contrary to our hypothesis of generalized hypermethylation of promoter regions of thyroid-related genes – indicative of epigenetic silencing of promoters and subsequent transcriptional downregulation, causing the biochemical thyroid abnormalities in DS –, we found an enrichment of hypomethylated DMPs annotated to promoter regions of these genes. This suggests that CH and early SH in DS are not caused by differential methylation of thyroid-related genes.
+Considering epigenetic regulation is dynamic, we hypothesize the observed thyroid-related gene DNAm changes could be a rescue phenomenon in an attempt to ameliorate the thyroid phenotype, through epigenetic upregulation of thyroid-related genes. This hypothesis is supported by the finding of decreasing methylation difference of thyroid-related genes with age. The prevalence of early SH declines with age, so hypothetically, epigenetic upregulation of thyroid-related genes also diminishes. While this study provides interesting insights, the exact origin of CH and early SH in DS remains unknown.&lt;/p&gt;
 </description>
     </item>
     
