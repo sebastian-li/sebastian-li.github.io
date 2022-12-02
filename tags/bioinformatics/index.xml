@@ -6,10 +6,27 @@
     <description>Recent content in bioinformatics on Sebastian Li</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 03 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Dec 2022 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://sebastian-li.github.io/tags/bioinformatics/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Incorporation of DNA methylation quantitative trait loci (mQTLs) in epigenome wide association analysis: application to birthweight effects in neonatal whole blood</title>
+      <link>https://sebastian-li.github.io/publication/incorporation_of_dna_methylation_quantitative_trait_loci_mqtls_in_epigenome_wide_association_analysis/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://sebastian-li.github.io/publication/incorporation_of_dna_methylation_quantitative_trait_loci_mqtls_in_epigenome_wide_association_analysis/</guid>
+      <description>&lt;p&gt;Background
+Epigenome-wide association studies (EWAS) have helped to define the associations between DNA methylation and many clinicopathologic and developmental traits. Since DNA methylation is affected by genetic variation at certain loci, EWAS associations may be potentially influenced by genetic effects. However, a formal assessment of the value of incorporating genetic variation in EWAS evaluations is lacking especially for multiethnic populations.&lt;/p&gt;
+&lt;p&gt;Methods
+Using single nucleotide polymorphism (SNP) from Illumina Omni Express or Affymetrix PMDA arrays and DNA methylation data from the Illumina 450 K or EPIC array from 1638 newborns of diverse genetic ancestries, we generated DNA methylation quantitative trait loci (mQTL) databases for both array types. We then investigated associations between neonatal DNA methylation and birthweight (incorporating gestational age) using EWAS modeling, and reported how EWAS results were influenced by controlling for mQTLs.&lt;/p&gt;
+&lt;p&gt;Results
+For CpGs on the 450 K array, an average of 15.4% CpGs were assigned as mQTLs, while on the EPIC array, 23.0% CpGs were matched to mQTLs (adjusted P value &amp;lt; 0.05). The CpGs associated with SNPs were enriched in the CpG island shore regions. Correcting for mQTLs in the EWAS model for birthweight helped to increase significance levels for top hits. For CpGs overlapping genes associated with birthweight-related pathways (nutrition metabolism, biosynthesis, for example), accounting for mQTLs changed their regression coefficients more dramatically (&amp;gt; 20%) than for other random CpGs.&lt;/p&gt;
+&lt;p&gt;Conclusion
+DNA methylation levels at circa 20% CpGs in the genome were affected by common SNP genotypes. EWAS model fit significantly improved when taking these genetic effects into consideration. Genetic effects were stronger on CpGs overlapping genetic elements associated with control of gene expression.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Meta-analysis of DNA methylation datasets shows aberrant DNA methylation of thyroid development or function genes in Down syndrome</title>
