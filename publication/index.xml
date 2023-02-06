@@ -6,48 +6,10 @@
     <description>Recent content in Publications on Sebastian Li</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Nov 2022 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://sebastian-li.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Systemic interindividual epigenetic variation in humans is associated with transposable elements and under strong genetic control</title>
-      <link>https://sebastian-li.github.io/publication/systemic-interindividual-epigenetic-variation-in-humans-is-associated-with-transposable-elements-and-under-strong-genetic-control/</link>
-      <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://sebastian-li.github.io/publication/systemic-interindividual-epigenetic-variation-in-humans-is-associated-with-transposable-elements-and-under-strong-genetic-control/</guid>
-      <description>&lt;p&gt;Abstract&lt;/p&gt;
-&lt;p&gt;Background&lt;/p&gt;
-&lt;p&gt;Genetic variants can modulate phenotypic outcomes via epigenetic intermediates, for example at methylation quantitative trait loci (mQTL).&lt;/p&gt;
-&lt;p&gt;We present the first large-scale assessment of mQTL at human genomic regions selected for interindividual variation in CpG methylation, which we call correlated regions of systemic interindividual variation (CoRSIVs).&lt;/p&gt;
-&lt;p&gt;These can be assayed in blood DNA and do not reflect interindividual variation in cellular composition.&lt;/p&gt;
-&lt;p&gt;Results&lt;/p&gt;
-&lt;p&gt;We use target-capture bisulfite sequencing to assess DNA methylation at 4086 CoRSIVs in multiple tissues from each of 188 donors in the NIH Gene-Tissue Expression (GTEx) program. At CoRSIVs, DNA methylation in peripheral blood correlates with methylation and gene expression in internal organs.&lt;/p&gt;
-&lt;p&gt;We also discover unprecedented mQTL at these regions. Genetic influences on CoRSIV methylation are extremely strong (median R2=0.76), cumulatively comprising over 70-fold more human mQTL than detected in the most powerful previous study. Moreover, mQTL beta coefficients at CoRSIVs are highly skewed (i.e., the major allele predicts higher methylation).&lt;/p&gt;
-&lt;p&gt;Both surprising findings are independently validated in a cohort of 47 non-GTEx individuals. Genomic regions flanking CoRSIVs show long-range enrichments for LINE-1 and LTR transposable elements; the skewed beta coefficients may therefore reflect evolutionary selection of genetic variants that promote their methylation and silencing.&lt;/p&gt;
-&lt;p&gt;Analyses of GWAS summary statistics show that mQTL polymorphisms at CoRSIVs are associated with metabolic and other classes of disease.&lt;/p&gt;
-&lt;p&gt;Conclusions&lt;/p&gt;
-&lt;p&gt;A focus on systemic interindividual epigenetic variants, clearly enhanced in mQTL content, should likewise benefit studies attempting to link human epigenetic variation to the risk of disease.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Incorporation of DNA methylation quantitative trait loci (mQTLs) in epigenome wide association analysis: application to birthweight effects in neonatal whole blood</title>
-      <link>https://sebastian-li.github.io/publication/incorporation_of_dna_methylation_quantitative_trait_loci_mqtls_in_epigenome_wide_association_analysis/</link>
-      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://sebastian-li.github.io/publication/incorporation_of_dna_methylation_quantitative_trait_loci_mqtls_in_epigenome_wide_association_analysis/</guid>
-      <description>&lt;p&gt;Background
-Epigenome-wide association studies (EWAS) have helped to define the associations between DNA methylation and many clinicopathologic and developmental traits. Since DNA methylation is affected by genetic variation at certain loci, EWAS associations may be potentially influenced by genetic effects. However, a formal assessment of the value of incorporating genetic variation in EWAS evaluations is lacking especially for multiethnic populations.&lt;/p&gt;
-&lt;p&gt;Methods
-Using single nucleotide polymorphism (SNP) from Illumina Omni Express or Affymetrix PMDA arrays and DNA methylation data from the Illumina 450 K or EPIC array from 1638 newborns of diverse genetic ancestries, we generated DNA methylation quantitative trait loci (mQTL) databases for both array types. We then investigated associations between neonatal DNA methylation and birthweight (incorporating gestational age) using EWAS modeling, and reported how EWAS results were influenced by controlling for mQTLs.&lt;/p&gt;
-&lt;p&gt;Results
-For CpGs on the 450 K array, an average of 15.4% CpGs were assigned as mQTLs, while on the EPIC array, 23.0% CpGs were matched to mQTLs (adjusted P value &amp;lt; 0.05). The CpGs associated with SNPs were enriched in the CpG island shore regions. Correcting for mQTLs in the EWAS model for birthweight helped to increase significance levels for top hits. For CpGs overlapping genes associated with birthweight-related pathways (nutrition metabolism, biosynthesis, for example), accounting for mQTLs changed their regression coefficients more dramatically (&amp;gt; 20%) than for other random CpGs.&lt;/p&gt;
-&lt;p&gt;Conclusion
-DNA methylation levels at circa 20% CpGs in the genome were affected by common SNP genotypes. EWAS model fit significantly improved when taking these genetic effects into consideration. Genetic effects were stronger on CpGs overlapping genetic elements associated with control of gene expression.&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>Meta-analysis of DNA methylation datasets shows aberrant DNA methylation of thyroid development or function genes in Down syndrome</title>
