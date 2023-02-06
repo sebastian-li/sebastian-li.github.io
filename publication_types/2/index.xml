@@ -6,10 +6,31 @@
     <description>Recent content in 2 on Sebastian Li</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Jan 2023 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://sebastian-li.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Systemic interindividual epigenetic variation in humans is associated with transposable elements and under strong genetic control</title>
+      <link>https://sebastian-li.github.io/publication/systemic-interindividual-epigenetic-variation-in-humans-is-associated-with-transposable-elements-and-under-strong-genetic-control/</link>
+      <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://sebastian-li.github.io/publication/systemic-interindividual-epigenetic-variation-in-humans-is-associated-with-transposable-elements-and-under-strong-genetic-control/</guid>
+      <description>&lt;p&gt;Abstract&lt;/p&gt;
+&lt;p&gt;Background&lt;/p&gt;
+&lt;p&gt;Genetic variants can modulate phenotypic outcomes via epigenetic intermediates, for example at methylation quantitative trait loci (mQTL).&lt;/p&gt;
+&lt;p&gt;We present the first large-scale assessment of mQTL at human genomic regions selected for interindividual variation in CpG methylation, which we call correlated regions of systemic interindividual variation (CoRSIVs).&lt;/p&gt;
+&lt;p&gt;These can be assayed in blood DNA and do not reflect interindividual variation in cellular composition.&lt;/p&gt;
+&lt;p&gt;Results&lt;/p&gt;
+&lt;p&gt;We use target-capture bisulfite sequencing to assess DNA methylation at 4086 CoRSIVs in multiple tissues from each of 188 donors in the NIH Gene-Tissue Expression (GTEx) program. At CoRSIVs, DNA methylation in peripheral blood correlates with methylation and gene expression in internal organs.&lt;/p&gt;
+&lt;p&gt;We also discover unprecedented mQTL at these regions. Genetic influences on CoRSIV methylation are extremely strong (median R2=0.76), cumulatively comprising over 70-fold more human mQTL than detected in the most powerful previous study. Moreover, mQTL beta coefficients at CoRSIVs are highly skewed (i.e., the major allele predicts higher methylation).&lt;/p&gt;
+&lt;p&gt;Both surprising findings are independently validated in a cohort of 47 non-GTEx individuals. Genomic regions flanking CoRSIVs show long-range enrichments for LINE-1 and LTR transposable elements; the skewed beta coefficients may therefore reflect evolutionary selection of genetic variants that promote their methylation and silencing.&lt;/p&gt;
+&lt;p&gt;Analyses of GWAS summary statistics show that mQTL polymorphisms at CoRSIVs are associated with metabolic and other classes of disease.&lt;/p&gt;
+&lt;p&gt;Conclusions&lt;/p&gt;
+&lt;p&gt;A focus on systemic interindividual epigenetic variants, clearly enhanced in mQTL content, should likewise benefit studies attempting to link human epigenetic variation to the risk of disease.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Incorporation of DNA methylation quantitative trait loci (mQTLs) in epigenome wide association analysis: application to birthweight effects in neonatal whole blood</title>
@@ -128,16 +149,6 @@ Our findings provide new insights into the functional pathways of ALL risk SNPs 
 &lt;p&gt;Accelerated aging is a hallmark of Down syndrome (DS), with adults experiencing early-onset Alzheimer&amp;rsquo;s disease and premature aging of the skin, hair, and immune and endocrine systems. Accelerated epigenetic aging has been found in the blood and brain tissue of adults with DS but when premature aging in DS begins remains unknown.&lt;/p&gt;
 &lt;p&gt;We investigated whether accelerated aging in DS is already detectable in blood at birth. We assessed the association between age acceleration and DS using five epigenetic clocks in 346 newborns with DS and 567 newborns without DS using Illumina MethylationEPIC DNA methylation array data. We compared two epigenetic aging clocks (DNAmSkinBloodClock and pan-tissue DNAmAge) and three epigenetic gestational age clocks (Haftorn, Knight, and Bohlin) between DS and non-DS newborns using linear regression adjusting for observed age, sex, batch, deconvoluted blood cell proportions, and genetic ancestry. Targeted sequencing of GATA1 was performed in a subset of 184 newborns with DS to identify somatic mutations associated with transient abnormal myelopoiesis.&lt;/p&gt;
 &lt;p&gt;DS was significantly associated with increased DNAmSkinBloodClock (effect estimate = 0.2442, p &amp;lt; 0.0001), with an epigenetic age acceleration of 244 days in newborns with DS after adjusting for potential confounding factors (95% confidence interval: 196–292 days). We also found evidence of epigenetic age acceleration associated with somatic GATA1 mutations among newborns with DS (p = 0.015). DS was not associated with epigenetic gestational age acceleration. We demonstrate that accelerated epigenetic aging in the blood of DS patients begins prenatally, with implications for the pathophysiology of immunosenescence and other aging-related traits in DS.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Epigenome-Wide Association Study of Acute Lymphoblastic Leukemia in Children with Down Syndrome</title>
-      <link>https://sebastian-li.github.io/publication/epigenome-wide-association-study-of-acute-lymphoblastic-leukemia-in-children-with-down-syndrome-letter/</link>
-      <pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://sebastian-li.github.io/publication/epigenome-wide-association-study-of-acute-lymphoblastic-leukemia-in-children-with-down-syndrome-letter/</guid>
-      <description>&lt;p&gt;Down syndrome (DS) is caused by constitutional trisomy of chromosome 21 and is associated with an up to 30-fold increased risk of acute lymphoblastic leukemia (ALL). While DS is associated with alterations in epigenetic markers, including DNA methylation, and gene expression. These mechanisms have not been fully explored in relation to DS-ALL etiology. Because the epigenome is sensitive to genetic and environmental influences during fetal development and can be leveraged to characterize blood cell proportions, we sought to evaluate the role of the neonatal methylome in children with DS on subsequent ALL risk.&lt;/p&gt;
 </description>
     </item>
     

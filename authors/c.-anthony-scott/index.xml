@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C. Anthony Scott on Sebastian Li</title>
+    <link>https://sebastian-li.github.io/authors/c.-anthony-scott/</link>
+    <description>Recent content in C. Anthony Scott on Sebastian Li</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 12 Jan 2023 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://sebastian-li.github.io/authors/c.-anthony-scott/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Systemic interindividual epigenetic variation in humans is associated with transposable elements and under strong genetic control</title>
+      <link>https://sebastian-li.github.io/publication/systemic-interindividual-epigenetic-variation-in-humans-is-associated-with-transposable-elements-and-under-strong-genetic-control/</link>
+      <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://sebastian-li.github.io/publication/systemic-interindividual-epigenetic-variation-in-humans-is-associated-with-transposable-elements-and-under-strong-genetic-control/</guid>
+      <description>&lt;p&gt;Abstract&lt;/p&gt;
+&lt;p&gt;Background&lt;/p&gt;
+&lt;p&gt;Genetic variants can modulate phenotypic outcomes via epigenetic intermediates, for example at methylation quantitative trait loci (mQTL).&lt;/p&gt;
+&lt;p&gt;We present the first large-scale assessment of mQTL at human genomic regions selected for interindividual variation in CpG methylation, which we call correlated regions of systemic interindividual variation (CoRSIVs).&lt;/p&gt;
+&lt;p&gt;These can be assayed in blood DNA and do not reflect interindividual variation in cellular composition.&lt;/p&gt;
+&lt;p&gt;Results&lt;/p&gt;
+&lt;p&gt;We use target-capture bisulfite sequencing to assess DNA methylation at 4086 CoRSIVs in multiple tissues from each of 188 donors in the NIH Gene-Tissue Expression (GTEx) program. At CoRSIVs, DNA methylation in peripheral blood correlates with methylation and gene expression in internal organs.&lt;/p&gt;
+&lt;p&gt;We also discover unprecedented mQTL at these regions. Genetic influences on CoRSIV methylation are extremely strong (median R2=0.76), cumulatively comprising over 70-fold more human mQTL than detected in the most powerful previous study. Moreover, mQTL beta coefficients at CoRSIVs are highly skewed (i.e., the major allele predicts higher methylation).&lt;/p&gt;
+&lt;p&gt;Both surprising findings are independently validated in a cohort of 47 non-GTEx individuals. Genomic regions flanking CoRSIVs show long-range enrichments for LINE-1 and LTR transposable elements; the skewed beta coefficients may therefore reflect evolutionary selection of genetic variants that promote their methylation and silencing.&lt;/p&gt;
+&lt;p&gt;Analyses of GWAS summary statistics show that mQTL polymorphisms at CoRSIVs are associated with metabolic and other classes of disease.&lt;/p&gt;
+&lt;p&gt;Conclusions&lt;/p&gt;
+&lt;p&gt;A focus on systemic interindividual epigenetic variants, clearly enhanced in mQTL content, should likewise benefit studies attempting to link human epigenetic variation to the risk of disease.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
