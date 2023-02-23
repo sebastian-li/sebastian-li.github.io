@@ -305,9 +305,6 @@
     <loc>https://sebastian-li.github.io/authors/philip-j.-lupo/</loc>
     <lastmod>2022-05-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sebastian-li.github.io/vlogs/othervideos/</loc>
-    <lastmod>2022-05-03T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://sebastian-li.github.io/vlogs/vlogs/</loc>
     <lastmod>2022-05-03T00:00:00+00:00</lastmod>
   </url><url>
@@ -644,6 +641,8 @@
     <loc>https://sebastian-li.github.io/authors/admin/</loc>
   </url><url>
     <loc>https://sebastian-li.github.io/categories/</loc>
+  </url><url>
+    <loc>https://sebastian-li.github.io/vlogs/othervideos/</loc>
   </url><url>
     <loc>https://sebastian-li.github.io/posts/</loc>
   </url>
