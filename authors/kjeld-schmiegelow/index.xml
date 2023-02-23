@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kjeld Schmiegelow on Sebastian Li</title>
+    <link>https://sebastian-li.github.io/authors/kjeld-schmiegelow/</link>
+    <description>Recent content in Kjeld Schmiegelow on Sebastian Li</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 22 Feb 2023 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://sebastian-li.github.io/authors/kjeld-schmiegelow/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Multi-ancestry genome-wide association study of 4,069 children with glioma identifies 9p21.3 risk locus</title>
+      <link>https://sebastian-li.github.io/publication/multi_ancestry_genome_wide_association_study_of_4069_children_with_glioma_identifies_9p21_3_risk_locus/</link>
+      <pubDate>Wed, 22 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://sebastian-li.github.io/publication/multi_ancestry_genome_wide_association_study_of_4069_children_with_glioma_identifies_9p21_3_risk_locus/</guid>
+      <description>&lt;p&gt;Background
+While recent sequencing studies have revealed that 10% of childhood gliomas are caused by rare germline mutations, the role of common variants is undetermined and no genome-wide significant risk loci for pediatric CNS tumors have been identified to date.&lt;/p&gt;
+&lt;p&gt;Methods
+Meta-analysis of three population-based genome-wide association studies (GWASs) comprising 4,069 children with glioma and 8,778 controls of multiple genetic ancestries. Replication was performed in a separate case-control cohort. Quantitative trait loci analyses and a transcriptome-wide association study were conducted to assess possible links with brain tissue expression across 18,628 genes.&lt;/p&gt;
+&lt;p&gt;Results
+Common variants in CDKN2B-AS1 at 9p21.3 were significantly associated with astrocytoma, the most common subtype of glioma in children (rs573687, p-value 6.974e-10, OR 1.273, CI95 1.179-1.374). The association was driven by low-grade astrocytoma (p-value 3.815e-9) and exhibited unidirectional effects across all six genetic ancestries. For glioma overall, the association approached genome-wide significance (rs3731239, p-value 5.411e-8), while no significant association was observed for high-grade tumors. Predicted decreased brain tissue expression of CDKN2B was significantly associated with astrocytoma (p-value 8.090e-8).&lt;/p&gt;
+&lt;p&gt;Conclusion
+In this population-based GWAS meta-analysis, we identify and replicate 9p21.3 (CDKN2B-AS1) as a risk locus for childhood astrocytoma, thereby establishing the first genome-wide significant evidence of common variant predisposition in pediatric neuro-oncology. We furthermore provide a functional basis for the association by showing a possible link to decreased brain tissue CDKN2B expression and substantiate that genetic susceptibility differs between low- and high-grade astrocytoma.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
